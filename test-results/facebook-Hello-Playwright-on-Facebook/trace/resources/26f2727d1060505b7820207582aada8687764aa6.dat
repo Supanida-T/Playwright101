@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometGroupFeedOptimizeStructureContext",["react"],(function(a,b,c,d,e,f,g){"use strict";var h;a=h||d("react");b=a.createContext(!1);g["default"]=b}),98);
+__d("CommerceTabFeedImpressionFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("2315");b=d("FalcoLoggerInternal").create("commerce_tab_feed_impression",a);e=b;g["default"]=e}),98);
